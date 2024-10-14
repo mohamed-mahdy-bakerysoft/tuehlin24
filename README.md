@@ -8,7 +8,7 @@ Taelor Uehlin
 
 ## Basic Mapping
 
-- [First map in ArcGIS Pro](https://github.com/jiashenyue/geo441-541/blob/main/basic-mapping/first-arcgis-mapping.ipynb)
+- [First map in ArcGIS Pro](https://github.com/tuehlin24/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/week_01_assignment_template.ipynb)
 - [Map the age index based on 2000 census data](https://github.com/jiashenyue/geo441-541/blob/main/basic-mapping/age-index-mapping.ipynb)
 
 ## Map Coordinate Basics
