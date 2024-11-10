@@ -14,3 +14,6 @@ Taelor Uehlin
 ## Map Coordinate Basics
 
 - [Understanding map coordinates](https://github.com/tuehlin24/gis-project-portfolio-geo441-541b/blob/main/map-coordinate-basics/understanding-coordinates.ipynb))
+
+## Spatial analysis
+- [Spatial analysis for vector data]([spatial analysis/ Copy_of_week_10_assignment_template.ipynb](https://github.com/tuehlin24/gis-project-portfolio-geo441-541b/blob/main/spatial%20analysis/%20Copy_of_week_10_assignment_template.ipynb) 
