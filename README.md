@@ -14,9 +14,13 @@ Taelor Uehlin
 
 ## Map Coordinate Basics
 
-- [Understanding map coordinates](https://github.com/tuehlin24/gis-project-portfolio-geo441-541b/blob/main/map-coordinate-basics/understanding-coordinates.ipynb))
+- [Understanding map coordinates](https://github.com/tuehlin24/gis-project-portfolio-geo441-541b/blob/main/map-coordinate-basics/understanding-coordinates.ipynb)
+
+## Remote Censing Products
+- [Understand Band Composite](https://github.com/tuehlin24/gis-project-portfolio-geo441-541b/blob/main/remote-sensing-products/geo441_541_understand_band_composite.ipynb)
 
 ## Spatial analysis
-- [Spatial analysis for vector data](https://github.com/tuehlin24/gis-project-portfolio-geo441-541b/blob/main/spatial%20analysis/%20Copy_of_week_10_assignment_template.ipynb) 
-- [Working with US census data](https://github.com/tuehlin24/gis-project-portfolio-geo441-541b/blob/main/week_12_assignment_template.ipynb)
+- [Spatial analysis for vector data](https://github.com/tuehlin24/gis-project-portfolio-geo441-541b/blob/main/spatial%20analysis/%20spatial_analysis_for_vector_data.ipynb) 
+- [Working with US census data](https://github.com/tuehlin24/gis-project-portfolio-geo441-541b/blob/main/spatial%20analysis/week_12_assignment_template.ipynb)
+- [Spatial Analysis for Raster Data](https://github.com/tuehlin24/gis-project-portfolio-geo441-541b/blob/main/spatial%20analysis/week_09_assignment_template.ipynb)
   
